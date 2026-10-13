@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Piyush Tirole 👋
 
-<!--
-**piyushtirole1/piyushtirole1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 B.Tech CSE Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science student
+- 🐍 Learning Python and Data Analytics
+- 📊 Interested in Data Analysis & Visualization
+- 💻 Building practical projects
+- 🌱 Always learning new technologies
+
+## 🛠️ Skills
+
+- Python
+- Data Analytics
+- Jupyter Notebook
+- Git & GitHub
+
+## 📌 Projects
+
+Coming soon... 🚀
+
+## 🎯 Goals
+
+- Build real-world projects
+- Improve my programming skills
+- Become a skilled Data Analyst
+- Explore Web Development
+
+---
+
+⭐ Thanks for visiting my profile!
